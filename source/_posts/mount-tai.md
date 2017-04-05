@@ -4,6 +4,8 @@ date: 2017-04-05 17:10:58
 tags: [假期,泰山]
 categories: 生活
 ---
+<center>图片太大,请在WiFi下观看,土豪随意</center>
+
 ![](/images/IMG_0510.JPG)
 <!--more-->
 ![](/images/IMG_0511.JPG)
